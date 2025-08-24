@@ -1,0 +1,7 @@
+langflow==1.5.0
+openai
+gtts
+whisper
+torch
+faster-whisper
+pydub
