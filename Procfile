@@ -1,1 +1,1 @@
-web: uvicorn langflow.main:app --host 0.0.0.0 --port $PORT
+web: langflow run --host 0.0.0.0 --port $PORT
